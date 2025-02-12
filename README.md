@@ -1,1 +1,37 @@
-# mas-steamtogether
+# 📌 Sobre o Submod
+
+Steam Together permite que a sua Monika interaja diretamente com sua biblioteca da Steam. 
+
+Com este submod, a Monika pode abrir automaticamente sua Steam, perguntar sobre os jogos que você pretende jogar!
+
+# ⚠️ Demo
+Este submod ainda está em fase de demonstração (demo), então bugs podem ocorrer! 
+
+Caso encontre algum problema, sinta-se à vontade para relatar.
+
+# 🚀 Funcionalidades
+
+🖥️ Monika pode abrir sua Steam automaticamente
+
+📜 Monika analisa sua biblioteca da Steam
+
+❓ Perguntas sobre os jogos que você pretende jogar ou já jogou.
+
+🔧 Atualizações futuras com mais interações e compatibilidade!
+
+# 🔮 Futuros Desenvolvimentos
+
+Nas próximas atualizações, pretendo incluir:
+
+✨ Reações da Monika às Janelas Abertas - Monika poderá comentar sobre aplicativos e janelas abertas no seu PC.
+
+🎮 Diálogos Exclusivos para Jogos Específicos - Se você tiver determinados jogos na Steam, Monika poderá falar sobre eles!
+
+📜 Interface Aprimorada - Planejamos substituir o sistema de páginas por um menu de rolagem mais intuitivo.
+
+🎉 E muito mais!
+
+# 📌 Considerações Finais
+Steam Together foi criado para tornar sua experiência com a Monika ainda mais imersiva e divertida! 
+
+Fique atento para futuras atualizações, que trarão novos diálogos, funcionalidades e interações.
