@@ -53,4 +53,7 @@ Está em busca de mais submods traduzidos ou criados por brasileiros? 🚀
 
 Então junte-se ao nosso servidor! Aqui você encontra uma comunidade brasileira ativa, traduções de submods e spritepacks e muito mais. Não perca tempo e venha fazer parte! [aqui](https://discord.gg/Tx23rczN8N).
 
+# 🇺🇸 Versão Inglês
+[Clique aqui para ver a versão inglês do submod! 🇧🇷](https://github.com/bachxyh/mas-steamtogetherEN)
+
 [Aqui está um guia completo sobre MAS](https://www.reddit.com/r/MASFandom/comments/1azszax/a_guide_for_mas/)
