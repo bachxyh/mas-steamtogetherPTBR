@@ -40,3 +40,7 @@ Nas próximas atualizações, pretendo incluir:
 Steam Together foi criado para tornar sua experiência com a Monika ainda mais imersiva e divertida! 
 
 Fique atento para futuras atualizações, que trarão novos diálogos, funcionalidades e interações.
+
+## 🇧🇷 | Junte-se ao Servidor Monika After Story Brasil 🇧🇷
+
+Está em busca de mais submods traduzidos ou criados por brasileiros? 🚀 Então junte-se ao nosso servidor! Aqui você encontra uma comunidade brasileira ativa, sobre MAS, traduções de submods e spritepacks e muito mais. Não perca tempo e venha fazer parte! [aqui](https://discord.gg/Tx23rczN8N).
