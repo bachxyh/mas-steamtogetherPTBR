@@ -32,7 +32,7 @@ Nas próximas atualizações, pretendo incluir:
 
 🎮 Diálogos Exclusivos para Jogos Específicos - Se você tiver determinados jogos na Steam, Monika poderá falar sobre eles!
 
-📜 Interface Aprimorada - Planejamos substituir o sistema de páginas por um menu de rolagem mais intuitivo.
+📜 Interface Aprimorada - Planejo substituir colocar uma barra de pesquisa para ficar mais intuitivo.
 
 🎉 E muito mais!
 
