@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="doc/steamtogether.png" alt="Steam Together" width="500">
+<h3 align="center">Steam Together um submod que permite à Monika abrir sua Steam, interagir com sua biblioteca de jogos e tornar suas sessões de gameplay mais envolventes!</h3>
+</p>
+
 # 📌 Sobre o Submod
 
 Steam Together permite que a sua Monika interaja diretamente com sua biblioteca da Steam. 
